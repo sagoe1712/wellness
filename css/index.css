@@ -108,98 +108,98 @@ margin: .8em 30% .8em;
 
 
 #home-page{
-	background: url("../img/splash.png");
-	background-size: cover;
-	background-position: center;
-	background-attachment:fixed;
-	background-repeat: no-repeat;
-}
+	background: url("../img/splash.png") !important;
+	background-size: cover !important;
+	background-position: center !important;
+	background-attachment:fixed !important;
+	background-repeat: no-repeat !important;
+} 
 
 #second-page{
-	background: url("../img/main_one.png");
-	background-size: cover;
-	background-position: center;
-	background-attachment:fixed;
-	background-repeat: no-repeat;
+	background: url("../img/main_one.png") !important;
+	background-size: cover !important;
+	background-position: center !important;
+	background-attachment:fixed !important;
+	background-repeat: no-repeat !important;
 }
 
 #login-page{
-	background: url("../img/login.png");
-	background-size: cover;
-	background-position: center;
-	background-attachment:fixed;
-	background-repeat: no-repeat;
+	background: url("../img/login.png") !important;
+	background-size: cover !important;
+	background-position: center !important;
+	background-attachment:fixed !important;
+	background-repeat: no-repeat !important;
 }
 
 #buyplan-page{
-	background: url("../img/buyplan.png");
-	background-size: cover;
-	background-position: center;
-	background-attachment:fixed;
-	background-repeat: no-repeat;
+	background: url("../img/buyplan.png") !important;
+	background-size: cover !important;
+	background-position: center !important;
+	background-attachment:fixed !important;
+	background-repeat: no-repeat !important;
 }
 #selectplan-page{
-	background: url("../img/buyplan1.png");
-	background-size: cover;
-	background-position: center;
-	background-attachment:fixed;
-	background-repeat: no-repeat;
+	background: url("../img/buyplan1.png") !important;
+	background-size: cover !important;
+	background-position: center !important;
+	background-attachment:fixed !important;
+	background-repeat: no-repeat !important;
 }
 #tel-contact-page{
-	background: url("../img/EDITEDcontactus2.png");
-	background-size: cover;
-	background-position: center;
-	background-attachment:fixed;
-	background-repeat: no-repeat;
+	background: url("../img/EDITEDcontactus2.png") !important;
+	background-size: cover !important;
+	background-position: center !important;
+	background-attachment:fixed !important;
+	background-repeat: no-repeat !important;
 }
 #add-contact-page{
-	background: url("../img/EDITEDcontactus3.png");
-	background-size: cover;
-	background-position: center;
-	background-attachment:fixed;
-	background-repeat: no-repeat;
+	background: url("../img/EDITEDcontactus3.png") !important;
+	background-size: cover !important;
+	background-position: center !important;
+	background-attachment:fixed !important;
+	background-repeat: no-repeat !important;
 }
 #frm-contact-page{
-	background: url("../img/contactus1.png");
-	background-size: cover;
-	background-position: center;
-	background-attachment:fixed;
-	background-repeat: no-repeat;
+	background: url("../img/contactus1.png") !important;
+	background-size: cover !important;
+	background-position: center !important;
+	background-attachment:fixed !important;
+	background-repeat: no-repeat !important;
 }
 #hospital-page{
-	background: url("../img/EDITEDourhospitals1.png");
-	background-size: cover;
-	background-position: center;
-	background-attachment:fixed;
-	background-repeat: no-repeat;
+	background: url("../img/EDITEDourhospitals1.png") !important;
+	background-size: cover !important;
+	background-position: center !important;
+	background-attachment:fixed !important;
+	background-repeat: no-repeat !important;
 }
 #full-hos-contact-page{
-	background: url("../img/ourhospitals2.png");
-	background-size: cover;
-	background-position: center;
-	background-attachment:fixed;
-	background-repeat: no-repeat;
+	background: url("../img/ourhospitals2.png") !important;
+	background-size: cover !important;
+	background-position: center !important;
+	background-attachment:fixed !important;
+	background-repeat: no-repeat !important;
 }
 #terms-page{
-	background: url("../img/terms.png");
-	background-size: cover;
-	background-position: center;
-	background-attachment:fixed;
-	background-repeat: no-repeat;
+	background: url("../img/terms.png") !important;
+	background-size: cover !important;
+	background-position: center !important;
+	background-attachment:fixed !important;
+	background-repeat: no-repeat !important;
 }
 #forgot-pwd-page{
-	background: url("../img/forgotpassword.png");
-	background-size: cover;
-	background-position: center;
-	background-attachment:fixed;
-	background-repeat: no-repeat;
+	background: url("../img/forgotpassword.png") !important;
+	background-size: cover !important;
+	background-position: center !important;
+	background-attachment:fixed !important;
+	background-repeat: no-repeat !important;
 }
 #register-page{
-	background: url("../img/register.png");
-	background-size: cover;
-	background-position: center;
-	background-attachment:fixed;
-	background-repeat: no-repeat;
+	background: url("../img/register.png") !important;
+	background-size: cover !important;
+	background-position: center !important;
+	background-attachment:fixed !important;
+	background-repeat: no-repeat !important;
 }
 
 #sidemenu-page{
@@ -211,11 +211,11 @@ margin: .8em 30% .8em;
 }
 
 #dash-page{
-	background: url("../img/home.png");
-	background-size: cover;
-	background-position: center;
-	background-attachment:fixed;
-	background-repeat: no-repeat;
+	background: url("../img/home.png") !important;
+	background-size: cover !important;
+	background-position: center !important;
+	background-attachment:fixed !important;
+	background-repeat: no-repeat !important;
 }
 
 .whole-page-link{
