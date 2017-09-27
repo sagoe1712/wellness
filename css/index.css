@@ -249,7 +249,33 @@ margin: .8em 30% .8em;
 	left:15% !important;
 	opacity:0 !important;
 }
+.link-contact{
+	position:absolute !important;
+	
+	right:0% !important;
+	opacity:0 !important;
+}
 
+.link-con-frm{
+	position:absolute !important;
+	top:23% !important;
+	right:45% !important;
+	opacity:0 !important;
+}
+
+.link-con-tel{
+	position:absolute !important;
+	top:23% !important;
+	left:5% !important;
+	opacity:0 !important;
+}
+
+.link-con-add{
+	position:absolute !important;
+	top:23% !important;
+	right:5% !important;
+	opacity:0 !important;
+}
 .link-register{
 	position:absolute !important;
 	top:83% !important;
