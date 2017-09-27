@@ -263,6 +263,18 @@ margin: .8em 30% .8em;
 	opacity:0 !important;
 }
 
+.link-btn-login{
+	position:absolute !important;
+	top:70% !important;
+	opacity:0 !important;
+}
+
+.link-btn-forgot{
+	position:absolute !important;
+	top:80% !important;
+	opacity:0 !important;
+}
+
 .link-con-tel{
 	position:absolute !important;
 	top:23% !important;
